@@ -1,1 +1,1 @@
-# xavier-test
+# Rails app: "xavier-test"
